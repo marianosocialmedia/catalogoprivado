@@ -3461,3 +3461,77 @@ body{
     background:rgba(255,255,255,.86)!important;
   }
 }
+
+
+/* ==========================================================
+   V36 — ESPAÇAMENTO MAIS CURTO ENTRE HEAD, BALANÇA E PRODUTOS
+   ========================================================== */
+
+/* Encurta o hero sem perder respiro */
+.hero{
+  min-height:88vh!important;
+  padding-bottom:8px!important;
+}
+
+/* Aproxima a balança do head */
+.products-zone{
+  padding-top:0!important;
+}
+
+.scale-section{
+  min-height:310px!important;
+  padding-top:8px!important;
+  padding-bottom:8px!important;
+}
+
+.products-zone .scale-section{
+  min-height:310px!important;
+  padding:12px 5vw 6px!important;
+}
+
+.products-zone .scale-stage{
+  height:278px!important;
+  margin:0 auto!important;
+}
+
+.products-zone .scale{
+  min-height:272px!important;
+}
+
+/* Traz o título dos produtos mais para cima */
+.catalog-intro{
+  padding-top:38px!important;
+  padding-bottom:28px!important;
+}
+
+/* Mobile */
+@media(max-width:900px){
+  .hero{
+    min-height:74vh!important;
+    padding-bottom:4px!important;
+  }
+
+  .scale-section{
+    min-height:248px!important;
+    padding-top:2px!important;
+    padding-bottom:4px!important;
+  }
+
+  .products-zone .scale-section{
+    min-height:248px!important;
+    padding:6px 12px 4px!important;
+  }
+
+  .products-zone .scale-stage{
+    height:220px!important;
+  }
+
+  .products-zone .scale{
+    min-height:214px!important;
+  }
+
+  .catalog-intro{
+    padding-top:20px!important;
+    padding-bottom:20px!important;
+  }
+}
