@@ -1,0 +1,4 @@
+Coloque aqui as imagens produto-01.png até produto-10.png.
+
+Para trocar textos e preços, edite products.txt na pasta principal.
+Não edite products.js.
