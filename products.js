@@ -1,5 +1,5 @@
 window.SITE_CONFIG = {
-  whatsapp: "5524999334587",
+  whatsapp: "5524998141624",
   whatsappMessagePrefix: "Olá! Vi este item no catálogo e gostaria de saber mais"
 };
 
@@ -143,7 +143,7 @@ window.PRODUCTS = [
     accent: "green"
   },
   {
-    name: "TG ampola 15mg",
+    name: "TIZERDRAL ampola 15mg",
     category: "Seleção Sheila",
     presentation: "Ampola avulsa",
     specification: "15mg",
@@ -159,7 +159,7 @@ window.PRODUCTS = [
     accent: "green"
   },
   {
-    name: "TG caixa com 4 ampolas 15mg",
+    name: "TIZERDRAL caixa com 4 ampolas 15mg",
     category: "Seleção Sheila",
     presentation: "4 ampolas",
     specification: "15mg",
@@ -195,7 +195,7 @@ window.PRODUCTS = [
     category: "Seleção Sheila",
     presentation: "Caneta",
     specification: "40mg",
-    price: "R$ 15.990,00",
+    price: "R$ 1.599,00",
     oldPrice: "",
     installment: "no pix ou cartão de crédito 18x com acréscimo da maquininha",
     rating: "5,0",
